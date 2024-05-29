@@ -1,0 +1,1 @@
+This is a project that does data analysis, data cleansing on UK railways data using Pyspark on Databricks and works with an approach of trying to figure out main challenges in running the railways and the peak hours and stores them in a dynamically generated csv that changes the name based on current date automatically.
